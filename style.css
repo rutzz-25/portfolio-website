@@ -144,14 +144,14 @@ header {
   border-radius: 10px;
   transition: transform 0.3s ease;
 }
-.launch-date { 
+/*.launch-date { 
   display: block;
   margin-top: 10px;
   font-weight: bold;
   color: #ffee00;
   font-size: 1.1rem;
   text-align: center;
-}
+}*/
 
 /* --- FIXED project-info background --- */
 .project-info {
@@ -241,3 +241,4 @@ footer {
     display: block;
   }
 }
+
